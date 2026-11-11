@@ -107,7 +107,6 @@ Remove-Item Env:GPS_IMPLEMENTATION
 - **Core test results:** https://github.com/muzammilkhokhar851/gps-distance-qa/blob/main/reports/regression_results.txt
 - **Validation summary:** https://github.com/muzammilkhokhar851/gps-distance-qa/blob/main/reports/validation_summary.csv
 
-Before submission, complete the remaining factual placeholders. Open every URL while signed out to verify reviewer access and confirm all referenced files are committed.
 
 ## AI usage, checks and corrections
 
