@@ -1,4 +1,4 @@
-# intent.md — GPS Distance QA Quest
+# GPS Distance QA Quest
 
 ## Intent
 

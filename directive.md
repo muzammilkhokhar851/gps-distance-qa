@@ -1,4 +1,4 @@
-# directive.md — Final GPS Distance QA Directive and Handoff
+# Final GPS Distance QA Directive and Handoff
 
 ## Objective
 
