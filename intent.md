@@ -58,8 +58,8 @@ Real-road map matching, curved routes, GPS uncertainty, multiple zones, producti
 
 ## Effort and prior work
 
-**Actual effort:** [ENTER YOUR REAL TOTAL HOURS; do not use the suggested 6–10 hours unless accurate].
+**Actual effort:** 6 H
 
-**Pre-existing work:** [CONFIRM whether anything existed before this Quest; if none, write “None; the project was created for this Quest.”]
+**Pre-existing work:** None; the project was created for this Quest.
 
 **Tools used:** Windows, VS Code, Python, pandas, NumPy, pytest, Git, GitHub, and AI assistance.

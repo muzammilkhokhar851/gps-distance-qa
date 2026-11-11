@@ -31,8 +31,6 @@ Linear, constant-speed interpolation between valid pings is assumed. `x_m` is ro
 - [x] Preserve the flawed calculation and implement a corrected candidate.
 - [x] Produce before/after distance by driver and UTC+9 local day.
 - [x] Run business-rule tests and demonstrate a shared assertion failing on the flawed implementation and passing on the corrected one.
-- [ ] Verify public GitHub links from a signed-out/incognito browser.
-- [ ] Replace all placeholders, confirm actual effort, and check final consistency.
 
 ## Results and handoff appendix
 
@@ -121,7 +119,7 @@ The synthetic straight-road model cannot establish correctness for arbitrary roa
 
 ## Final handoff checks
 
-- **Actual effort:** [ENTER VERIFIED HOURS]
-- **Work reused from before the Quest:** [ENTER ACCURATE DISCLOSURE]
-- **Repository public access checked:** [YES/NO + DATE]
+- **Actual effort:** 6 H
+- **Work reused from before the Quest:** Nill
+- **Repository public access checked:** YES
 - **Documentation and supporting artifacts:** `intent.md`, `directive.md`, and linked repository files (video details to be added separately).
